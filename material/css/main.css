@@ -88,7 +88,7 @@ a{
 .ob_nav_subListShow{
     position: absolute;
     top: 49px;
-    left: -10%;
+    left: -15%;
     display: none;
     padding-top: 10px;
     z-index: 9999999;
